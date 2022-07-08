@@ -7,7 +7,7 @@ exports[`test in <GifItem /> Should do match with the snapshot 1`] = `
   >
     <img
       alt="Soy un titulo"
-      src="https://url-de-prueba.com"
+      src="https://url-de-prueba.com/"
     />
     <p>
       Soy un titulo
