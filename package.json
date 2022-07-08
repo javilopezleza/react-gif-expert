@@ -2,7 +2,7 @@
   "name": "gif-expert-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://javilolez.byethost9.com/reactApp/",
+  "homepage": "http://javilolez.byethost9.com/reactApp/assets",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
